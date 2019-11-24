@@ -92,3 +92,7 @@ def customer_can_afford_pet(name, pet)
   end
     return false
 end
+
+def sell_pet_to_customer()
+
+end
